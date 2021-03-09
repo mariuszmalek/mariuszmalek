@@ -92,15 +92,3 @@ Want to know more about me? [Check out my website.](https://mariuszmalek.com/)
 ![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
 
 </details>
-
-<br>
-
-## 📣 How about an Office quote before you go?
-
-> Everybody stay calm! Stay f*&#!#% calm!
->
-> <p>- Michael Scott</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
