@@ -44,12 +44,11 @@ Want to know more about me? [Check out my website.](https://mariuszmalek.com/)
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=php&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=php&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=php&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=php&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-YOLO-informational?style=flat&logo=php&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Symfony-informational?style=flat&logo=php&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=php&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Nuxt-informational?style=flat&logo=nuxt&logoColor=white&color=4AB197)
