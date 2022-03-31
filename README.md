@@ -9,12 +9,8 @@ I'm Mariusz, a full-stack programmer, creative developer and visionary who speci
 
 Want to know more about me? [Check out my website.](https://mariuszmalek.com/)
 
-🔭 I’m currently working on Freelance as Web Dev Programmer
-🌱 I’m currently learning Golang and Python
-🎓 I’m currently studying at the university "Surabaya State University" (Indonesia)
-🪶 Blockchain Enthusiast
-📫 Reach me on Instagram `(fiandwi_24)` or Facebook `(@viandwi24)`
-👨‍💻 You can contact me on `viandwicyber@gmail.com`
+🌱 I’m currently learning Rust and Flutter
+
 <h3 align="left">Languages</h3>
 <table align="left">
   <tr>
