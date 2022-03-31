@@ -9,9 +9,6 @@ I'm Mariusz, a full-stack programmer, creative developer and visionary who speci
 
 Want to know more about me? [Check out my website.](https://mariuszmalek.com/)
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=viandwi24&show_icons=true)
-
 - 🔭 I’m currently working on Freelance as Web Dev Programmer
 - 🌱 I’m currently learning Golang and Python
 - 🎓 I’m currently studying at the university "Surabaya State University" (Indonesia)
