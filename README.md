@@ -47,8 +47,8 @@ Want to know more about me? [Check out my website.](https://mariuszmalek.com/)
 ## 💼 Skills
 
 
-<h3 align="left">Languages</h3>
-<table align="left">
+<h3 align="center">Languages</h3>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="html5" />
