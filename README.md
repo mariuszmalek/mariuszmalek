@@ -5,11 +5,13 @@
 
 Hey there 👋
 
-I'm Mariusz, a full-stack programmer, creative developer and visionary who specializes in back-end development. I put emphasis on translating user-centric projects into websites or applications that run very fast. My mission is to create great things
+I'm Mariusz, a full-stack programmer, creative developer and visionary who specializes in back-end development. I put emphasis on translating user-centric projects into websites or applications that run very fast. My mission is to create great things.
 
 Want to know more about me? [Check out my website.](https://mariuszmalek.com/)
 
+
 🌱 I’m currently learning Rust and Flutter
+
 
 
 <br>
@@ -51,24 +53,12 @@ Want to know more about me? [Check out my website.](https://mariuszmalek.com/)
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="html5" />
-      <br>Html5
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="css3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="Javascript" />
       <br>Javascript
     </td>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="48" height="48" alt="typescript" />
       <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="48" height="48" alt="sass" />
-      <br>SASS
     </td>
   </tr>
   <tr>
@@ -77,8 +67,11 @@ Want to know more about me? [Check out my website.](https://mariuszmalek.com/)
       <br>NodeJS
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1024px-Deno.svg.png" height="48" alt="deno" />
-      <br>Deno
+      <a href="#nuxtjs">
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png"
+          width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
     </td>
     <td align="center" width="96">
       <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" height="48" alt="flutter" />
@@ -90,32 +83,7 @@ Want to know more about me? [Check out my website.](https://mariuszmalek.com/)
     </td>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png" height="48" alt="golang" />
-      <br>Golang
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/id/thumb/2/2e/Java_Logo.svg/800px-Java_Logo.svg.png" height="48" alt="java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" height="48" alt="c++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/Visual_Basic_6.0_logo.png" height="48" alt="vb6" />
-      <br>VB Classic
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/2048px-VB.NET_Logo.svg.png" height="48" alt="vb.net" />
-      <br>VB .NET
-    </td>
-    <td align="center" width="96">
-      <a href="#nuxtjs">
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png"
-          width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
+      <br>Rust
     </td>
   </tr>
 </table>
