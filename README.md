@@ -9,14 +9,14 @@ I'm Mariusz, a full-stack programmer, creative developer and visionary who speci
 
 Want to know more about me? [Check out my website.](https://mariuszmalek.com/)
 
-- 🔭 I’m currently working on Freelance as Web Dev Programmer
-- 🌱 I’m currently learning Golang and Python
-- 🎓 I’m currently studying at the university "Surabaya State University" (Indonesia)
-- 🪶 Blockchain Enthusiast
-- 📫 Reach me on Instagram `(fiandwi_24)` or Facebook `(@viandwi24)`
-- 👨‍💻 You can contact me on `viandwicyber@gmail.com`
-<h3 align="center">Languages</h3>
-<table align="center">
+🔭 I’m currently working on Freelance as Web Dev Programmer
+🌱 I’m currently learning Golang and Python
+🎓 I’m currently studying at the university "Surabaya State University" (Indonesia)
+🪶 Blockchain Enthusiast
+📫 Reach me on Instagram `(fiandwi_24)` or Facebook `(@viandwi24)`
+👨‍💻 You can contact me on `viandwicyber@gmail.com`
+<h3 align="left">Languages</h3>
+<table align="left">
   <tr>
     <td align="center" width="96">
       <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="html5" />
