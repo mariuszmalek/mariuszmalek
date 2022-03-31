@@ -60,8 +60,6 @@ Want to know more about me? [Check out my website.](https://mariuszmalek.com/)
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="48" height="48" alt="typescript" />
       <br>TypeScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png" height="48" alt="nodejs" />
       <br>NodeJS
