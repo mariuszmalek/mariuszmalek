@@ -3,9 +3,7 @@
 
 Hey there 👋
 
-I'm Mariusz, a full-stack programmer, creative developer and visionary who specializes in back-end development. I put emphasis on translating user-centric projects into websites or applications that run very fast. My mission is to create great things.
-
-Want to know more about me? [Check out my website.](https://mariuszmalek.com/)
+I'm Mariusz, a full-stack software engineer. I put emphasis on translating user-centric projects. My mission is to create great things.
 
 
 🌱 I’m currently learning Rust and Flutter
