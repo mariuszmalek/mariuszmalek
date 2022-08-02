@@ -12,12 +12,11 @@ Want to know more about me? [Check out my website.](https://mariuszmalek.com/)
 
 <br>
 
-## :sparkles: Skills
+## :sparkles: My programming level
 
 <br>
 
-<a href="https://coderbyte.com/profile/mariuszmalek" target="_blank">Coderbyte</a>
-<a href="https://leetcode.com/mariuszmalek/" target="_blank">Leetcode</a>
+<a href="https://coderbyte.com/profile/mariuszmalek" target="_blank">Coderbyte</a>, <a href="https://leetcode.com/mariuszmalek/" target="_blank">Leetcode</a>
 
 <br>
 
