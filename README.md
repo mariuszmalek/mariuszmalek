@@ -10,10 +10,14 @@ Want to know more about me? [Check out my website.](https://mariuszmalek.com/)
 
 🌱 I’m currently learning Rust and Flutter
 
-<a href="https://coderbyte.com/profile/mariuszmalek" target="_blank">Coderbyte</a>
+<br>
 
+## :sparkles: Skills
+
+<br>
+
+<a href="https://coderbyte.com/profile/mariuszmalek" target="_blank">Coderbyte</a>
 <a href="https://leetcode.com/mariuszmalek/" target="_blank">Leetcode</a>
-[https://coderbyte.com/profile/mariuszmalek](https://leetcode.com/mariuszmalek/)
 
 <br>
 
