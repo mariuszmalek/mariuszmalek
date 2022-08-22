@@ -12,8 +12,6 @@ I'm Mariusz, a full-stack software engineer. I put emphasis on translating user-
 
 ## :sparkles: My programming level
 
-<br>
-
 <a href="https://coderbyte.com/profile/mariuszmalek" target="_blank">Coderbyte</a>, <a href="https://leetcode.com/mariuszmalek/" target="_blank">Leetcode</a>
 
 <br>
