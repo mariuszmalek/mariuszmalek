@@ -1,6 +1,6 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mariuszmalek)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mariusz-malek-4a95011a5/)
-[![Stackoverflow Badge](https://img.shields.io/badge/StackOverflow-Profile-brightgreen?style=flat&logo=stackoverflow&logoColor=white&color=0D76A8)](https://stackoverflow.com/users/11044556/mariusz-malek/)
+[![Stackoverflow Badge](https://img.shields.io/badge/StackOverflow-Profile-brightgreen?style=flat&logo=stackoverflow&logoColor=white&color=f48225)](https://stackoverflow.com/users/11044556/mariusz-malek/)
 [![Leetcode Badge](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat&logo=leetcode&logoColor=white&color=ec407a)](https://leetcode.com/mariuszmalek/)
 [![Cooderbyte Badge](https://img.shields.io/badge/Cooderbyte-Profile-blue?style=flat&logo=cooderbyte&logoColor=white&color=3cdce2)](https://coderbyte.com/profile/mariuszmalek/)
 
@@ -8,10 +8,8 @@ Hey there 👋
 
 I'm Mariusz, a full-stack software engineer. I put emphasis on translating user-centric projects. My mission is to create great things.
 
-
 🌱 I’m currently learning Rust and Flutter
 
-<br>
 <br>
 
 ## 📌 Pinned Repositories
