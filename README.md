@@ -1,6 +1,8 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mariuszmalek)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mariusz-malek-4a95011a5/)
 [![Stackoverflow Badge](https://img.shields.io/badge/StackOverflow-Profile-brightgreen?style=flat&logo=stackoverflow&logoColor=white&color=0D76A8)](https://stackoverflow.com/users/11044556/mariusz-malek/)
+[![Leetcode Badge](https://img.shields.io/badge/LeetCode-Profile-brightgreen?style=flat&logo=leetcode&logoColor=white&color=0D76A8)](https://leetcode.com/mariuszmalek/)
+[![Cooderbyte Badge](https://img.shields.io/badge/Cooderbyte-Profile-brightgreen?style=flat&logo=cooderbyte&logoColor=white&color=0D76A8)](https://coderbyte.com/profile/mariuszmalek/)
 
 Hey there 👋
 
