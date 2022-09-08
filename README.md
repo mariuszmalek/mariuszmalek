@@ -11,20 +11,6 @@ I'm Mariusz, a full-stack software engineer. I put emphasis on translating user-
 🌱 I’m currently learning Rust and Flutter
 
 <br>
-
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/mariuszmalek/unique-number-generator">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mariuszmalek&repo=unique-number-generator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/mariuszmalek/leech">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mariuszmalek&repo=leech&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
 <br>
 
 ## &#x1f4c8; GitHub Stats
