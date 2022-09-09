@@ -10,6 +10,10 @@ I'm Mariusz, a full-stack software engineer. I put emphasis on translating user-
 
 🌱 I’m currently learning Rust and Flutter
 
+These are some of my projects that I have led to a greater extent:
+https://www.castingstudio.pl
+https://polecajprawnika.pl
+
 <br>
 <br>
 
