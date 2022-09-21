@@ -3,6 +3,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/StackOverflow-Profile-brightgreen?style=flat&logo=stackoverflow&logoColor=white&color=f48225)](https://stackoverflow.com/users/11044556/mariusz-malek/)
 [![Leetcode Badge](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat&logo=leetcode&logoColor=white&color=ec407a)](https://leetcode.com/mariuszmalek/)
 [![Cooderbyte Badge](https://img.shields.io/badge/Cooderbyte-Profile-blue?style=flat&logo=cooderbyte&logoColor=white&color=3cdce2)](https://coderbyte.com/profile/mariuszmalek/)
+[![Dev Badge](https://img.shields.io/badge/Dev-Profile-blue?style=flat&logo=cooderbyte&logoColor=white&color=3cdce2)](https://dev.to/mariuszmalek)
 
 Hey there 👋
 
