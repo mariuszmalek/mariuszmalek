@@ -1,9 +1,9 @@
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mariuszmalek)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mariusz-malek-4a95011a5/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mariuszmalek)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariusz-malek-4a95011a5/)
 [![Stackoverflow Badge](https://img.shields.io/badge/StackOverflow-Profile-brightgreen?style=flat&logo=stackoverflow&logoColor=white&color=f48225)](https://stackoverflow.com/users/11044556/mariusz-malek/)
-[![Leetcode Badge](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat&logo=leetcode&logoColor=white&color=ec407a)](https://leetcode.com/mariuszmalek/)
+[![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/mariuszmalek/)
 [![Cooderbyte Badge](https://img.shields.io/badge/Cooderbyte-Profile-blue?style=flat&logo=cooderbyte&logoColor=white&color=3cdce2)](https://coderbyte.com/profile/mariuszmalek/)
-[![Dev Badge](https://img.shields.io/badge/Dev-Profile-blue?style=flat&logo=cooderbyte&logoColor=white&color=3cdce2)](https://dev.to/mariuszmalek)
+[![Dev Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/mariuszmalek)
 
 Hey there 👋
 
