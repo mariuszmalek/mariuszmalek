@@ -5,11 +5,14 @@
 [![Cooderbyte Badge](https://img.shields.io/badge/Cooderbyte-Profile-blue?style=flat&logo=cooderbyte&logoColor=white&color=3cdce2)](https://coderbyte.com/profile/mariuszmalek/)
 [![Dev Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/mariuszmalek)
 
-Hey there 👋
+### Hey there 👋
 
-I'm Mariusz, a full-stack software engineer. I put emphasis on translating user-centric projects. My mission is to create great things.
+Hi there!
+I'm Mariusz. I work as a full-time software engineer. I put emphasis on translating user-centric projects. My mission is to create great things.
 
-🌱 I’m currently learning Rust and Flutter
+Most of my open-source 🚀 projects below are focused on one thing - to help create great things. I also write 📝 [articles](https://dev.to/mariuszmalek) about life, web-development, machine learning and start-ups.
+
+🌱 I’m currently learning Rust, Flutter and developing the Hey mobile app.
 
 These are some of my projects that I have done to a greater extent:
 - CastingStudio, platform for agencies, actors and models. https://www.castingstudio.pl
