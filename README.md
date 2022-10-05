@@ -7,7 +7,6 @@
 
 ### Hey there 👋
 
-Hi there!
 I'm Mariusz. I work as a full-time software engineer. I put emphasis on translating user-centric projects. My mission is to create great things.
 
 Most of my open-source 🚀 projects below are focused on one thing - to help create great things. I also write 📝 [articles](https://dev.to/mariuszmalek) about life, web-development, machine learning and start-ups.
