@@ -11,7 +11,10 @@ I'm Mariusz. I work as a full-time software engineer. My mission is to create gr
 
 🌱 I’m currently learning Rust, Flutter and developing the Hey mobile app.
 
+
 These are some of my projects that I have done to a greater extent:
+- Aispector, AI platform for ...
+- LeadBrowser, AI platform for search prospects in live time. http://www.leadbrowser.co/
 - CastingStudio, platform for agencies, actors and models. https://www.castingstudio.pl
 - PolecajPrawnika, a platform for the law industry. https://polecajprawnika.pl
 
