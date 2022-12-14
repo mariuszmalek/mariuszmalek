@@ -9,15 +9,6 @@
 
 I'm Mariusz. I work as a full-time software engineer. My mission is to create great things. Most of my open-source 🚀 projects below are focused on one thing - to help create great things. I also write 📝 [articles](https://dev.to/mariuszmalek) about life, web-development, machine learning and start-ups.
 
-🌱 I’m currently learning Rust, Flutter and developing the Hey mobile app.
-
-
-These are some of my projects that I have done to a greater extent:
-- Aispector, AI platform for ...
-- LeadBrowser, AI platform for search prospects in live time. http://www.leadbrowser.co/
-- CastingStudio, platform for agencies, actors and models. https://www.castingstudio.pl
-- PolecajPrawnika, a platform for the law industry. https://polecajprawnika.pl
-
 <br>
 <br>
 
