@@ -3,7 +3,6 @@
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/mariuszmalek/)
 [![Cooderbyte Badge](https://img.shields.io/badge/IndieHackers-Profile-blue?style=flat&logo=IndieHackers&logoColor=white&color=3cdce2)](https://www.indiehackers.com/mariuszmalek)
 [![Dev Badge](https://img.shields.io/badge/dev.to-green?style=flat&logo=devdotto&logoColor=white)](https://dev.to/mariuszmalek)
-[![Medium Badge](https://img.shields.io/badge/Medium-white?style=flat&logo=medium&logoColor=black)](https://medium.com/@mariuszmalek)
 
 
 ### Hey there 👋
